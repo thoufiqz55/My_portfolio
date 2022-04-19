@@ -38,6 +38,24 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Explored a machine learning approach to medical diagnosis
 
 ***
+***
+
+[Bank data](https://github.com/thoufiqz55/LogisticRegression/blob/main/Logistic_Regression_PR.ipynb)
+
+<img src="images/bank image.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+
+**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/thoufiqz55/LogisticRegression/blob/main/Logistic_Regression_PR.ipynb).
+
+- Used logistic regression to identify a tumour as malignant or benign based on various attributes
+- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
+- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
+- Explored a machine learning approach to medical diagnosis
+
+***
 
 [Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
 
