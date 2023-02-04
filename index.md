@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Don't get kicked!](https://jovian.com/zthoufiqz55/dont-get-kicked)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/car.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, Plotly, Scikit-learn.
 
@@ -18,8 +18,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Trained Logistic models, random forests, decision tree using scikit learn
 - RandomForestClassifier performed better accuracy and with hyperparameter tuning achieved 89% on the validation dataset.
-
-***
 
 ***
 
@@ -56,7 +54,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Explored a machine learning approach to medical diagnosis
 
-***
 ***
 
 [Campaign of citizen creating the  bank account Using Logistic Regression](https://github.com/thoufiqz55/LogisticRegression/blob/main/Logistic_Regression_PR.ipynb)
