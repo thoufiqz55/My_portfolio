@@ -4,6 +4,25 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Don't get kicked!](https://jovian.com/zthoufiqz55/dont-get-kicked)
+
+<img src="images/seoul-bikes.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, Plotly, Scikit-learn.
+
+**Project Objective:** Machine Learning algorith to predict if a car purchased in auction is a lemon.
+
+**Quantifiable result:** We predicted the car purchased was good or bad with [**89%** accuracy](https://jovian.com/zthoufiqz55/dont-get-kicked).
+
+- Cleaned & analyzed Don’t get Kicked dataset with 73k rows and 34 columns to predict Bad Buy
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Trained Logistic models, random forests, decision tree using scikit learn
+- RandomForestClassifier performed better accuracy and with hyperparameter tuning achieved 89% on the validation dataset.
+
+***
+
+***
+
 [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/thoufiqz55/Linear_Regression/blob/main/Linear_regression_pr.ipynb)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
