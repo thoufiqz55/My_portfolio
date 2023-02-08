@@ -10,13 +10,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas, Plotly, Scikit-learn.
 
-**Project Objective:** Machine Learning algorith to predict if a car purchased in auction is a lemon.
+**Project Objective:** Auctioned car quality prediction using Machine Learning.
 
 **Quantifiable result:** We predicted the car purchased was good or bad with [**89%** accuracy](https://jovian.com/zthoufiqz55/dont-get-kicked).
 
 - Cleaned & analyzed Don’t get Kicked dataset with 73k rows and 34 columns to predict Bad Buy
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Trained Logistic models, random forests, decision tree using scikit learn
+- Trained Logistic regression, random forests, decision tree & KNN classifier using scikit learn
 - RandomForestClassifier performed better accuracy and with hyperparameter tuning achieved 89% on the validation dataset.
 
 ***
